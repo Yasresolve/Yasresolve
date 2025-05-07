@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Yasmin Ferreira Teixeira da Silva  
+# 👩🏻‍💻 Yasmin Ferreira
 Analista de Dados | BI & Marketing
 
 Olá! Meu nome é Yasmin, tenho 24 anos e sou formada em Marketing pela FATEC Sebrae. Sou apaixonada por dados, visualizações inteligentes e estratégias de mercado baseadas em insights. Tenho experiência prática com ferramentas como **Power BI**, **Excel avançado** e **SAP**, além de vivência em grandes empresas como **Philips** e **GPS Trade & Talentos**.  
